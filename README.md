@@ -15,6 +15,9 @@ Technology:
 SQL,     
 Python,     
 Power BI     
-Data modeling and transformation  
+Data modeling and transformation 
+
+
 Dashboard:      
 
+<img width="1368" height="881" alt="KPI" src="https://github.com/user-attachments/assets/67e3c752-00e3-4fbf-921f-af5e5f50b00d" />
