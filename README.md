@@ -18,4 +18,3 @@ Power BI
 Data modeling and transformation  
 Dashboard:      
 
-Power BI Dashboard:
