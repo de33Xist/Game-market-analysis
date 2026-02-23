@@ -1,4 +1,4 @@
-Game-market---analysis  
+Game-market-analysis  
 Project Overview: 
 This project analyzes the structure of the video game market using SQL, Python, and Power BI. 
 The goal was to examine market scale, segment distribution, publisher concentration, and pricing differences between platforms. 
